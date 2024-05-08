@@ -1,8 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.parte1{
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
 .title {
     font-size: 48px;
     font-weight: bold;
     color: #293651;
-    text-align: center;
     .btn {
     font-family: sans-serif;
     color: white;
@@ -17,7 +26,8 @@
     font-size: 26px;
     color: #00a78e;
     font-family: sans-serif;
-    text-align: center;
+    letter-spacing: 2pt;
+    padding-bottom: 20px;
 }
 
 .subtitle2 {
@@ -25,16 +35,16 @@
     font-weight: 300;
     letter-spacing: 2pt;
     font-family: sans-serif;
-    text-align: center;
+    padding-bottom: 15px;
 }
 
 .text{
-    text-align: center;
     font-family: sans-serif;
     color: #76778c;
     font-size: 20px;
     letter-spacing: 1.2pt;
     line-height: 32px;
+    margin-bottom: 40px;
 }
 
 .btn {
