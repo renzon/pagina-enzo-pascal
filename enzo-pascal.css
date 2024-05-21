@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+.center{
+    text-align: center;
+}
+
 .parte1{
     margin-left: 80px;
     margin-top: 80px;
