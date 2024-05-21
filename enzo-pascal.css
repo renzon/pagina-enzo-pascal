@@ -5,11 +5,18 @@
 
 .center{
     text-align: center;
+    margin-bottom: -4px;
 }
 
 .parte1{
     margin-left: 80px;
     margin-top: 80px;
+}
+.parte2{
+    background-color: #00a78e;
+    padding: 80px 80px;
+    color: #fff;
+    
 }
 
 .title {
@@ -32,6 +39,19 @@
     font-family: sans-serif;
     letter-spacing: 2pt;
     padding-bottom: 20px;
+}
+
+.parte2 .subtitle1{
+    color: #fff;
+}
+
+.parte2 .texto{
+    letter-spacing: 1.2pt;
+    margin-bottom: 26px;
+}
+
+.parte2 .projetos{
+    list-style: none;
 }
 
 .subtitle2 {
