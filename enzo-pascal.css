@@ -90,3 +90,19 @@
     color: #00a78e;
     padding: 80px 80px;
 }
+
+.rodape{
+    background-color:  #293651;
+    padding: 80px 80px;
+    color: #828a9c;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.rodape a{
+    color: #828a9c;
+}
+
+.rodape a:hover{
+    color: #fff;
+}
