@@ -45,5 +45,12 @@ Confira o arquivo enzo-pascal.css com classe barra-progresso
 
 [Aula Incorporando Barras de Progresso com HTML e CSS](https://l.dev.pro.br/barra-de-progresso)
 
+## Passo 8: Aula Desvendando o CSS: Tag Semântica, Pseudo-Classe e Caracteres 
+Confira o arquivo enzo-pascal.html com tag footer
+Confira o arquivo enzo-pascal.css com classe rodape
+
+[Aula Desvendando o CSS: Tag Semântica, Pseudo-Classe e Caracteres Especiais](https://l.dev.pro.br/tag-semantica)
+
+
 
 
