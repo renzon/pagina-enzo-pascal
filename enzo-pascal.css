@@ -79,3 +79,14 @@
     padding: 20px 40px;
     text-decoration: none;
 }
+
+.barra-progresso{
+    height: 40px;
+    width: 400px;
+    accent-color: #00a78e;
+}
+
+.parte3{
+    color: #00a78e;
+    padding: 80px 80px;
+}
